@@ -27,7 +27,7 @@ public class Concontrol {
         System.out.println("\nFact (3)= " + fact(3) + "\n");
         System.out.println("\nLa suma de 4+5 es: " + suma(4,5));
         
-        System.out.println("FIN");
+        System.out.println("FIN de esta tarde gris");
     }
     
     
