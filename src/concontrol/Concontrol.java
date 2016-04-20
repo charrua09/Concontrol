@@ -21,10 +21,14 @@ public class Concontrol {
     public static int suma(int n1, int n2){
         return n1+n2;
     }
+    
     public static void main(String[] args) {
         System.out.println("Hola");
         System.out.println("\nFact (3)= " + fact(3) + "\n");
         System.out.println("\nLa suma de 4+5 es: " + suma(4,5));
+        
+        System.out.println("FIN");
     }
+    
     
 }
