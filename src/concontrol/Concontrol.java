@@ -17,10 +17,6 @@ public class Concontrol {
             f= f*i;
         return f;
     }
-    
-    public static int suma(int n1, int n2){
-        return n1+n2;
-    }
     public static void main(String[] args) {
         System.out.println("Hola");
         System.out.println("\nFact (3)= " + fact(3) + "\n");
