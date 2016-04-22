@@ -7,7 +7,7 @@ package concontrol;
 
 /**
  *
- * @author sguardatb
+ * @author Silvia Guardati
  */
 public class Concontrol {
 
