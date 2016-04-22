@@ -42,7 +42,7 @@ public class Concontrol {
         System.out.println("\nLa suma de 4/5 es: " + divide(4,5));
         System.out.println("\nLa suma de 4*5 es: " + multiplica(4,5) + "\n");
         
-        System.out.println("FIN de esta tarde gris");
+        System.out.println("FIN de esta tarde gris\n");
     }
     
     
